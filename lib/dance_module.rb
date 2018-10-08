@@ -3,7 +3,7 @@ def twirl
 "I'm twirling!"
 end
 def jump
-"Look hoe high I'm jumping"
+"Look hoe high I'm jumping!"
 end
 def pirouette
     "I'm doing a pirouette"
